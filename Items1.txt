@@ -1,0 +1,9 @@
+8
+7 12 190 70 Red Velvet Cupcakes
+8 12 160 55 Vanilla Cupcakes
+108 3 110 1 Vanilla Cupcakes
+5 6 650 120 MontBlanc
+200 8 200 1 Espresso
+201 8 220 1 Lungo
+202 8 290 2 Cappuccino
+204 8 150 1 Various Soft Drinks
